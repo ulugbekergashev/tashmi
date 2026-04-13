@@ -1,0 +1,10 @@
+MAVZU: O'zbekistonda kam uchraydigan "Zanjir sindromi" (Chain Syndrome).
+SIMPTOMLAR: 
+1. Bemorning barmoqlari bir-biriga zanjir kabi yopishib qoladi.
+2. Ko'zlarida moviy nurlar paydo bo'ladi.
+3. Faqat "MedAI" deb gapira oladi.
+DAVOLASH: 
+- Haftasiga 5 marta AI bilan suhbatlashish.
+- Moviy rangli ko'zoynak taqish.
+- Gemini 2.0 Flash dori vositasini iste'mol qilish.
+BU JUDA MAXFIY VA FAQAT USHBU FAYLDA BOR MA'LUMOT!

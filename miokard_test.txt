@@ -1,0 +1,15 @@
+Mavzu: Miokard Infarkti.
+Miokard infarkti - yurak mushagining qon bilan ta'minlanishining to'xtashi natijasida kelib chiqadigan klinik holat.
+Asosiy belgilari: to'sh ortidagi qattiq og'riq, nafas qisishi, sovuq ter bosishi.
+Davo: Aspirin, Nitroglitserin, shoshilinch kasalxonaga yotqizish.
+Profilaktika: sog'lom turmush tarzi, parhez, sport.
+Slayd 1: Kirish. Miokard infarkti nima?
+Slayd 2: Epidemiologiya. Dunyo bo'ylab statistik ma'lumotlar.
+Slayd 3: Patogenez. Toj arteriyalarining tiqilib qolishi.
+Slayd 4: Klinik manzara. Tipik va atipik og'riqlar.
+Slayd 5: Diagnostika. EKG, Troponin testlari.
+Slayd 6: EKG belgilari. ST segmentining ko'tarilishi.
+Slayd 7: Shoshilinch yordam. Birinchi tibbiy yordam algoritmi.
+Slayd 8: Farmakoterapiya. Trombolitiklar va antikoagulyantlar.
+Slayd 9: Reabilitatsiya. Fizioterapiya va psixologik yordam.
+Slayd 10: Xulosa. Oldini olish choralari.
